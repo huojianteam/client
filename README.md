@@ -14,7 +14,6 @@
 
 ---
 
-## 🟨🖤 Black–Gold Divider
 ```
 ═════════════════════════════════════════════════════════════
 ```
@@ -32,7 +31,6 @@
 
 ---
 
-## 🟨🖤 Black–Gold Divider
 ```
 ═════════════════════════════════════════════════════════════
 ```
@@ -42,22 +40,21 @@
 ## 📥 Client Downloads
 
 ### 🔸 Windows Client  
-👉 **[Download Windows Version](#)**
+👉 **[Download Windows Version](https://github.com/huojianteam/client/releases/download/v2.0.7/Rocket_Setup_2.0.7.exe)**
 
 ### 🔸 macOS Client  
-👉 **[Download macOS Version](#)**
+👉 **[Download macOS Version](https://github.com/huojianteam/client/releases/download/v2.0.7/Rocket_Setup_2.0.7.dmg)**
 
 ### 🔸 Android App  
-👉 **[Download Android APK](#)**
+👉 **[Download Android APK](https://github.com/huojianteam/client/releases/download/v2.0.7/Rocket_Setup_2.0.7.apk)**
 
 ### 🔸 iOS Setup Guide  
-👉 **[View iOS Installation Guide](#)**
+👉 **[View iOS Installation Guide](https://cdn.tencentdoc.com:5080/doc/1/)**
 
 > Replace the links above with your GitHub Releases URLs.
 
 ---
 
-## 🟨🖤 Black–Gold Divider
 ```
 ═════════════════════════════════════════════════════════════
 ```
@@ -88,7 +85,6 @@
 
 ---
 
-## 🟨🖤 Black–Gold Divider
 ```
 ═════════════════════════════════════════════════════════════
 ```
