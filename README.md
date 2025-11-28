@@ -1,2 +1,122 @@
-# client
-🚀 XiaoHuoJian Accelerator — Official Client Downloads
+# 🚀 Rocket Cloud — Official Client Downloads
+
+```
+██████╗  ██████╗  ██████╗ ███████╗███████╗████████╗███████╗████████╗
+██╔══██╗██╔═══██╗██╔════╝ ██╔════╝██╔════╝╚══██╔══╝██╔════╝╚══██╔══╝
+██████╔╝██║   ██║██║  ███╗█████╗  ███████╗   ██║   █████╗     ██║   
+██╔══██╗██║   ██║██║   ██║██╔══╝  ╚════██║   ██║   ██╔══╝     ██║   
+██████╔╝╚██████╔╝╚██████╔╝███████╗███████║   ██║   ███████╗   ██║   
+╚═════╝  ╚═════╝  ╚═════╝ ╚══════╝╚══════╝   ╚═╝   ╚══════╝   ╚═╝   
+                                   R O C K E T   C L O U D
+
+               ROCKET CLOUD — Fast · Secure · Reliable
+```
+
+---
+
+## 🟨🖤 Black–Gold Divider
+```
+═════════════════════════════════════════════════════════════
+```
+
+---
+
+## ✨ About Rocket Cloud
+
+**Rocket Cloud** provides fast, secure, and stable VPN acceleration for global internet access.
+
+- High-speed global nodes  
+- Encrypted privacy protection  
+- Stable performance  
+- Easy setup on all major platforms  
+
+---
+
+## 🟨🖤 Black–Gold Divider
+```
+═════════════════════════════════════════════════════════════
+```
+
+---
+
+## 📥 Client Downloads
+
+### 🔸 Windows Client  
+👉 **[Download Windows Version](#)**
+
+### 🔸 macOS Client  
+👉 **[Download macOS Version](#)**
+
+### 🔸 Android App  
+👉 **[Download Android APK](#)**
+
+### 🔸 iOS Setup Guide  
+👉 **[View iOS Installation Guide](#)**
+
+> Replace the links above with your GitHub Releases URLs.
+
+---
+
+## 🟨🖤 Black–Gold Divider
+```
+═════════════════════════════════════════════════════════════
+```
+
+---
+
+## 🛠 Releases Template (for GitHub Releases)
+
+```
+# 🚀 Rocket Cloud — Release vX.X.X
+
+### 📦 Included in This Release
+- Windows Client (EXE / ZIP)
+- macOS Client (DMG / ZIP)
+- Android APK
+- iOS Setup Guide (PDF / Markdown)
+
+### 🆕 What's New
+- Improved connection stability
+- Faster node switching
+- Updated encryption protocols
+- Bug fixes & performance optimization
+
+### ⚠️ Notes
+- Please uninstall extremely old versions before upgrading.
+- Download files only from our official GitHub repository.
+```
+
+---
+
+## 🟨🖤 Black–Gold Divider
+```
+═════════════════════════════════════════════════════════════
+```
+
+---
+
+## 🗂 Directory Structure
+
+```
+/windows
+/macos
+/android
+/ios-guide
+/release-notes
+```
+
+---
+
+## 🔒 Security Statement
+This repository provides **client downloads only**.  
+No server-side logic, credentials, or sensitive configurations are included.
+
+---
+
+## ⭐ Support Us
+
+```
+If you find this project useful, please ⭐ Star the repository!  
+Your support helps more users discover Rocket Cloud.
+```
+
